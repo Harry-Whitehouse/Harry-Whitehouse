@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harry Whitehouse
-- 👀 I’m interested in Crypto, Coding and Rock Climbing
+- 👀 I’m interested in Webdev, Blockchain and Rock Climbing
 - 🌱 I’m currently learning JavaScript and looking for an entrypoint into the coding industry.
 - 💞️ I’m looking to collaborate on ...
 - 📫 harry.w1995@gmail.com
